@@ -79,7 +79,7 @@ async function getInputValue(){
   }
   else if(value === "projects"){
     trueValue(value);
-    createText("<a href='https://github.com/heberleonard2' target='_blank'><i class='fab fa-github white'></i> github.com/heberleonard2</a>")
+    createText("<a href='https://github.com/mahmudulhassan5809' target='_blank'><i class='fab fa-github white'></i> github.com/mahmudulhassan5809</a>")
   }
   else if(value === "about me"){
     trueValue(value);
@@ -88,7 +88,7 @@ async function getInputValue(){
   }
   else if(value === "social -a"){
     trueValue(value);
-    createText("<a href='https://github.com/heberleonard2' target='_blank'><i class='fab fa-github white'></i> github.com/heberleonard2</a>")
+    createText("<a href='https://github.com/mahmudulhassan5809' target='_blank'><i class='fab fa-github white'></i> github.com/heberleonard2</a>")
     createText("<a href='https://www.linkedin.com/in/heber-leonard/' target='_blank'><i class='fab fa-linkedin-in white'></i> linkedin.com/in/heber-leonard</a>")
     createText("<a href='https://www.instagram.com/heber_leonard/' target='_blank'><i class='fab fa-instagram white'></i> instagram.com/heber_leonard</a>")
   }
