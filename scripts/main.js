@@ -14,6 +14,8 @@ app.addEventListener("keypress", async function(event){
   }
 });
 
+
+
 app.addEventListener("click", function(event){
   const input = document.querySelector("input");
   input.focus();
